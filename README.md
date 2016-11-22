@@ -1,2 +1,3 @@
 # hello_world
 mit første projekt
+Her skriver jeg lidt forskelligt....
